@@ -1,6 +1,6 @@
 {
-  "updated": "2025-05-13T22:21:38.471Z",
-  "totalItemCount": 24,
+  "updated": "2025-05-13T23:21:38.286Z",
+  "totalItemCount": 25,
   "items": [
     {
       "Date": "2025-04-20",
@@ -14,6 +14,19 @@
       "Submitted": "2025-04-23",
       "Updated": "2025-04-24",
       "ID": "ITEM-20250423-183555-046E6S"
+    },
+    {
+      "Date": "2025-04-18",
+      "Topic": "Biosecurity",
+      "Headline": "Trump unveils &quot;Lab Leak&quot; website ",
+      "Copy": "US intelligence agencies remain divided on how COVID-19 came to be, with some believing the virus jumped from sick animals to people and others believing that it resulted from research at a biological laboratory. There is uncertainty among the scientific community, as well. But for President Donald Trump there apparently is no wavering. The website covid.gov, which long contained information on the coronavirus, is now dedicated to promoting the so-called lab leak theory, calling it the &quot;true origins&quot; of the pandemic. ",
+      "Link": "https://www.nytimes.com/2025/04/18/science/trump-covid-website-lab-leak.html",
+      "Type": "Website",
+      "Notes": "",
+      "Editor": "mfield@thebulletin.org",
+      "Submitted": "2025-05-13",
+      "Updated": "20250513-185318",
+      "ID": "ITEM-20250513-185318-SBNPJQ"
     },
     {
       "Date": "2025-04-11",
