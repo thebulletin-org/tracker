@@ -1,7 +1,18 @@
 {
-  "updated": "2025-05-21T15:21:39.179Z",
-  "totalItemCount": 31,
+  "updated": "2025-05-21T16:21:38.161Z",
+  "totalItemCount": 32,
   "items": [
+    {
+      "Date": "2025-05-20",
+      "Topic": "Nuclear Risk",
+      "Headline": "US President Donald Trump announced the start of a so-called Golden Dome missile defense program",
+      "Copy": "US President Donald Trump <a href=\"https://www.washingtonpost.com/politics/2025/05/20/trump-golden-dome-missile-defense/\">announces</a> the start of a “Golden Dome” missile defense project to develop space-based sensing and attack satellites, and that will cost some $175 billion (including $25 billion in the next year). Experts <a href=\"https://thebulletin.org/2025/04/trump-wants-denuclearization-and-a-golden-dome-he-cant-have-both/\">have warned</a> that such a missile defense system will be self-defeating, spurring a new nuclear arms race that makes Trump’s stated goal of “denuclearization” all but impossible to achieve.",
+      "Link": "https://thebulletin.org/2025/04/trump-wants-denuclearization-and-a-golden-dome-he-cant-have-both/",
+      "Type": "Public statement",
+      "Submitted": "2025-05-21",
+      "Updated": "20250521-093149",
+      "ID": "ITEM-20250521-093149-0SZPZG"
+    },
     {
       "Date": "2025-05-10",
       "Topic": "Nuclear Risk",
@@ -94,7 +105,7 @@
       "Date": "2025-04-09",
       "Topic": "Nuclear Risk",
       "Headline": "US Space Command sends recommdendations to Defense Secretary on \"Golden Dome\"",
-      "Copy": "Following a January 27 executive order, US Space Command says it has finalized options for Donald Trump’s “Golden Dome” missile defense system and sent its recommendations to Defense Secretary Pete Hegseth for approval. The proposed system is intended to render the continental United States immune to missile attack, a stark departure from existing policy.",
+      "Copy": "Following a January 27 executive order, US Space Command <a href=\"https://apnews.com/article/golden-dome-missile-defense-trump-16cb94047bfdd7c2c55c5e099e40f74f\">says</a> it has finalized options for Donald Trump’s “Golden Dome” missile defense system and sent its recommendations to Defense Secretary Pete Hegseth for approval. The proposed system is intended to render the continental United States immune to missile attack, a stark departure from existing policy.",
       "Link": "https://thebulletin.org/2025/04/trump-wants-denuclearization-and-a-golden-dome-he-cant-have-both/",
       "Type": "Executive order",
       "Submitted": "2025-05-20",
