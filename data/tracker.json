@@ -1,7 +1,29 @@
 {
-  "updated": "2025-06-17T21:21:39.125Z",
-  "totalItemCount": 35,
+  "updated": "2025-06-17T22:21:37.912Z",
+  "totalItemCount": 38,
   "items": [
+    {
+      "Date": "2025-06-13",
+      "Topic": "Nuclear Risk",
+      "Headline": "“We knew everything” about Israel's strikes on Iran, Trump says",
+      "Copy": "Trump says <a href=\"https://thebulletin.org/2025/06/israel-attacks-iran-targeting-military-leaders-nuclear-facilities-and-nuclear-scientists/\">Israel’s attack on Iran</a> and its nuclear facilities followed the US deadline for Iran to make a deal. “We knew just about everything,” he said. “We knew enough that we gave Iran 60 days to make a deal, and today is 61, right? So, you know, we knew everything.” Trump <a href=\"https://www.usnews.com/news/politics/articles/2025-05-28/un-atomic-watchdog-chief-says-jury-is-still-out-on-iran-us-nuclear-talks\">previously said</a> he told Israeli Prime Minister Benjamin Netanyahu to delay military action to give his administration more time to push for a new nuclear deal with Tehran. A day after Israel launches its attack, Iran <a href=\"https://www.reuters.com/world/middle-east/sundays-us-iran-nuclear-talks-cancelled-oman-says-2025-06-14/\">cancels</a> a sixth round of nuclear talks that had been set to resume 24 hours later in Oman.",
+      "Link": "https://www.reuters.com/world/middle-east/trump-tells-reuters-its-unclear-if-iran-still-has-nuclear-program-2025-06-13/",
+      "Type": "Public statement",
+      "Submitted": "2025-06-16",
+      "Updated": "20250616-193246",
+      "ID": "ITEM-20250616-193246-W4IA8Z"
+    },
+    {
+      "Date": "2025-06-09",
+      "Topic": "Nuclear Risk",
+      "Headline": "Iran rejects Trump administration's proposal for a new nuclear deal",
+      "Copy": "President Trump tells reporters that Iran appears to have rejected the US proposal for a nuclear deal over the demand that it stop enriching uranium <a href=\"https://thebulletin.org/2025/06/a-nuclear-consortium-in-the-persian-gulf-as-a-basis-for-a-new-nuclear-deal-between-the-united-states-and-iran/a\">on Iranian soil</a>. “They don’t want to give up what they have to give up,” Trump says. “You know what that is: They seek enrichment.”",
+      "Link": "https://www.nytimes.com/2025/06/09/us/politics/iran-nuclear-trump-proposal-uranium.html",
+      "Type": "Public statement",
+      "Submitted": "2025-06-16",
+      "Updated": "20250616-184213",
+      "ID": "ITEM-20250616-184213-WVLB5Y"
+    },
     {
       "Date": "2025-05-23",
       "Topic": "Nuclear Risk, Climate Change",
@@ -34,6 +56,17 @@
       "Submitted": "2025-05-21",
       "Updated": "20250521-093149",
       "ID": "ITEM-20250521-093149-0SZPZG"
+    },
+    {
+      "Date": "2025-05-16",
+      "Topic": "Nuclear Risk",
+      "Headline": "Trump says Iran has a US nuclear proposal",
+      "Copy": "President Trump says Iran has a US proposal to address its rapidly advancing nuclear program, as negotiations between the two countries reach the \"expert\" level, in which the two sides begin <a href=\"https://thebulletin.org/2025/06/a-nuclear-consortium-in-the-persian-gulf-as-a-basis-for-a-new-nuclear-deal-between-the-united-states-and-iran/\">working out the details</a> of a possible agreement. But the proposal requires that Iran gives up its uranium enrichment capability, which Tehran insists it should be allowed to maintain.",
+      "Link": "https://www.pbs.org/newshour/politics/trump-says-iran-has-a-proposal-from-the-us-on-its-rapidly-advancing-nuclear-program",
+      "Type": "Public statement",
+      "Submitted": "2025-06-16",
+      "Updated": "20250616-174907",
+      "ID": "ITEM-20250616-174907-KOZHPO"
     },
     {
       "Date": "2025-05-10",
