@@ -1,7 +1,18 @@
 {
-  "updated": "2025-06-24T18:21:37.770Z",
-  "totalItemCount": 38,
+  "updated": "2025-06-24T19:21:38.177Z",
+  "totalItemCount": 39,
   "items": [
+    {
+      "Date": "2025-06-21",
+      "Topic": "Nuclear Risk",
+      "Headline": "The United States bombs Iran",
+      "Copy": "The United States attacks three Iranian nuclear sites: Fordow, Natanz, and Isfahan. While Trump touts the attack as “very successful,” the status of Iran’s nuclear program remains unclear. Some experts believe the US action might spur Iran to covertly sprint toward a nuclear weapon as quickly as possible. The White House characterizes the strikes as targeting Iran’s nuclear program and nothing more. \"It was not an attack on Iran. It was not an attack on the Iranian people. This wasn't a regime change move,\" Secretary of State Marco Rubio <a href=\"https://www.cbsnews.com/news/trump-iran-israel-war-regime-change-us-strikes-nuclear-sites-damage/\">tells CBS News</a>. That same day, however, Trump <a href=\"https://truthsocial.com/@realDonaldTrump/posts/114729009239087163\">posts</a> on social media, “If the current Iranian Regime is unable to MAKE IRAN GREAT AGAIN, why wouldn’t there be a Regime change???”",
+      "Link": "https://thebulletin.org/2025/06/united-states-attacks-iranian-nuclear-facilities-raising-the-possibility-of-iranian-retaliation-sprint-for-nuclear-weapons",
+      "Type": "White House action, Event, Social media",
+      "Submitted": "2025-06-24",
+      "Updated": "",
+      "ID": "ITEM-20250624-145833-HF54TW"
+    },
     {
       "Date": "2025-06-13",
       "Topic": "Nuclear Risk",
