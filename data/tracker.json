@@ -1,7 +1,40 @@
 {
-  "updated": "2025-09-16T19:21:38.050Z",
-  "totalItemCount": 39,
+  "updated": "2025-09-16T20:21:38.500Z",
+  "totalItemCount": 43,
   "items": [
+    {
+      "Date": "2025-08-22",
+      "Topic": "Disruptive Technologies",
+      "Headline": "The US government announces 10 percent stake in Intel",
+      "Copy": "President Trump posts on Truth Social: \"It is my Great Honor to report that the United States of America now fully owns and controls 10% of INTEL, a Great American Company that has an even more incredible future.\"",
+      "Link": "https://www.nbcnews.com/business/business-news/intel-agrees-us-stake-in-company-how-much-what-to-know-rcna226667",
+      "Type": "Social media",
+      "Submitted": "2025-08-25",
+      "Updated": "20250825-150510",
+      "ID": "ITEM-20250825-150510-4DVOIA"
+    },
+    {
+      "Date": "2025-08-04",
+      "Topic": "Disruptive Technologies",
+      "Headline": "Illinois becomes first state to block AI therapy",
+      "Copy": "Governor JB Pritzker signs into law protections for patients against the use of artificial intelligence in therapy and psychotherapy services, making Illinois the first state to do so. ",
+      "Link": "https://idfpr.illinois.gov/news/2025/gov-pritzker-signs-state-leg-prohibiting-ai-therapy-in-il.html",
+      "Type": "Legislation",
+      "Submitted": "2025-08-25",
+      "Updated": "20250825-142635",
+      "ID": "ITEM-20250825-142635-Y3YZLX"
+    },
+    {
+      "Date": "2025-07-23",
+      "Topic": "Disruptive Technologies",
+      "Headline": "The White House releases an “AI Action Plan”",
+      "Copy": "The document introduces more than 90 federal policies related to artificial intelligence innovation, infrastructure, and diplomacy and security, intended to “cement US dominance in artificial intelligence” and proposes gutting regulations, expanding AI use, and rapidly building data centers.",
+      "Link": "https://thebulletin.org/2025/07/americas-ai-action-plan-aims-to-gut-regulation-and-expand-manufacturing/",
+      "Type": "Document, White House action",
+      "Submitted": "2025-08-25",
+      "Updated": "20250825-142338",
+      "ID": "ITEM-20250825-142338-PVTPMY"
+    },
     {
       "Date": "2025-06-21",
       "Topic": "Nuclear Risk",
@@ -23,6 +56,17 @@
       "Submitted": "2025-06-16",
       "Updated": "20250616-193246",
       "ID": "ITEM-20250616-193246-W4IA8Z"
+    },
+    {
+      "Date": "2025-06-11",
+      "Topic": "Biosecurity",
+      "Headline": "RFK Jr. replaces CDC vaccine advisors",
+      "Copy": "All 17 members of the CDC’s Advisory Committee on Immunization Practices, experts in immunology and other relevant areas, are replaced by eight new individuals—including a board member of what's described as the United State's oldest anti-vaccine organization, a former Harvard professor who claims to have been fired for resisting COVID health measures, and a microbiologist who has spread falsehoods about COVID vaccines. The committee’s vaccine recommendations inform school vaccine schedules and insurance coverage of vaccines, and advocates worry the transformed committee will help Kennedy reduce vaccine access.",
+      "Link": "https://thebulletin.org/2025/06/rfk-jr-picks-new-cdc-vaccine-advisors-allied-with-the-anti-vax-movement/#post-heading",
+      "Type": "Agency action",
+      "Submitted": "2025-08-25",
+      "Updated": "20250825-183607",
+      "ID": "ITEM-20250825-183607-0O7KV2"
     },
     {
       "Date": "2025-06-09",
